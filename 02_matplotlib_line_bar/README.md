@@ -1,7 +1,7 @@
-# Matplotlib fundamentals 
+# Matplotlib fundamentals
 
-<a href="" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/FOLDER_NAME/.png?raw=true" alt="DESCRIPTION" width="600">
+<a href="https://youtu.be/fZYi9gPWQcw" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization/bar_line_matplotlib.png?raw=true" alt="bar chart and line chart" width="600">
 </a>
 
 In this lecture we'll dive into matplotlib fundamentals to practice simple graphing in
