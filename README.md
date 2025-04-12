@@ -20,8 +20,8 @@ Prerequisites for this course are:
 
 | **Week** | **Content**                             | **Lectures** | **Exercise** |
 | -------- | --------------------------------------- | ------------ | ------------ |
-| 1        | data cleaning, matplotlib simple graphs | 00-04        | 0            |
-| 2        |                                         |              | 1            |
+| 1        | data cleaning, matplotlib simple graphs | 00-03        | 0            |
+| 2        |                                         | 04-06        | 1            |
 | 3        |                                         |              | 2            |
 | 4        |                                         |              | 3            |
 | 5        |                                         |              |              |
