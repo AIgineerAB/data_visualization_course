@@ -1,7 +1,7 @@
 # Introduction to data visualization course
 
-<a href="" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/FOLDER_NAME/.png?raw=true" alt="DESCRIPTION" width="600">
+<a href="https://www.youtube.com/watch?v=Q3AOfQXkxWM" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization/data_visualization_intro.png?raw=true" alt="data visualization intro" width="600">
 </a>
 
 ## Setup
