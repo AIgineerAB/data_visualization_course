@@ -18,13 +18,13 @@ Prerequisites for this course are:
 - pandas
 - simple matplotlib
 
-| **Week** | **Content**                             | **Lectures** | **Exercise** |
-| -------- | --------------------------------------- | ------------ | ------------ |
-| 1        | data cleaning, matplotlib simple graphs | 00-03        | 0            |
-| 2        |                                         | 04-06        | 1            |
-| 3        |                                         |              | 2            |
-| 4        |                                         |              | 3            |
-| 5        |                                         |              |              |
-| 6        |                                         |              |              |
-| 7        |                                         |              |              |
-| 8        |                                         |              |              |
+| **Week** | **Content**                                         | **Lectures** | **Exercise** |
+| -------- | --------------------------------------------------- | ------------ | ------------ |
+| 1        | data cleaning, matplotlib simple graphs             | 00-03        | 0            |
+| 2        | storytelling, mplstyle, interactive charts - plotly | 04-06        | 1            |
+| 3        |                                                     |              | 2            |
+| 4        |                                                     |              | 3            |
+| 5        |                                                     |              |              |
+| 6        |                                                     |              | project      |
+| 7        |                                                     |              | project      |
+| 8        |                                                     |              | project      |
