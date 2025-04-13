@@ -1,9 +1,9 @@
 # Matplotlib annotations 
 
-## NOT FINISHED YET
+**Annotations video**
 
-<a href="" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/FOLDER_NAME/.png?raw=true" alt="DESCRIPTION" width="600">
+<a href="https://youtu.be/mSU5vZTbS9s" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization/matplotlib_annotations.png?raw=true" alt="DESCRIPTION" width="600">
 </a>
 
 
