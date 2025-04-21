@@ -9,7 +9,7 @@ In this exercise, you get to use matplotlib and combine with data storytelling t
 
 This visualization comes from [03_matplotlib_annotations](https://github.com/AIgineerAB/data_visualization_course/tree/main/03_matplotlib_annotations).
 
-<img src="https://github.com/kokchun/assets/blob/main/data_visualization/annotate_arrow?raw=true" alt="bar chart and line chart" width="300">
+<img src="https://github.com/kokchun/assets/blob/main/data_visualization/annotate_arrow.png?raw=true" alt="bar chart and line chart" width="300">
 
 Lets improve upon this visualization.
 
@@ -23,44 +23,54 @@ Lets improve upon this visualization.
 
 &nbsp; e) You can choose several different stories to tell and depending on which one you choose, the visualization might look differently in terms of what parts are annotated, what parts are highlighted etc.
 
+## 1. Makeover
 
-## 1. Makeover 
+The given code
 
+```py
+import pandas as pd
+import duckdb
 
+df = pd.read_csv("data/norway_new_car_sales_by_month.csv")
+df = duckdb.query(
+    """
+    SELECT avg_CO2, import,quantity, year, month
+    FROM df
 
+"""
+).df()
 
+df["date"] = pd.to_datetime(
+    df["Year"].astype(str) + "-" + df["Month"].astype(str).str.zfill(2), format="%Y-%m"
+)
 
-## 1. Recreate graphs
+df = df.set_index("date")
 
-<!-- &nbsp; a) Here we use subplots to get two axes in one figure
+ax = df["Avg_CO2"].plot()
+```
 
-<img src="https://github.com/kokchun/assets/blob/main/data_visualization/popular_games.png?raw=true" alt="bar chart and line chart" width="300">
+creates a graph that looks like this
 
-&nbsp; b) This one will require some data processing to be able to come to this point.
+<img src="https://github.com/kokchun/assets/blob/main/data_visualization/avg_co2.png?raw=true" alt="bar chart and line chart" width="300">
 
-Hint: df.explode() and df.join()
+<br/>
 
-<img src="https://github.com/kokchun/assets/blob/main/data_visualization/top5_genre_tags.png?raw=true" alt="bar chart and line chart" width="300">
+Your task is to do a `data storytelling makeover` of this visual.
 
-&nbsp; c) A df has a hist() method for creating histogram
+## 2. Exploring happiness
 
-<img src="https://github.com/kokchun/assets/blob/main/data_visualization/histogram_tags.png?raw=true" alt="bar chart and line chart" width="300"> -->
+In the data happiness.xlsx from [here](https://data.world/makeovermonday/2025-week-4-world-happiness-report-2024) you can find happiness scores as well as a visualization of all the countries happiness along with different variables to explain the happiness to various levels. Do exploratory data analysis on this dataset, then pick out a few visualizations that you turn into explanatory data analysis using the principles of data storytelling. 
 
-## 2. Theory questions
+## 3. Theory questions
 
-<!-- &nbsp; a) When can you make line charts and when can't you make line charts?
+&nbsp; a) Why is it good to use the proximity principle when designing visuals? 
 
-&nbsp; b) Whats wrong with this chart?
+&nbsp; b) What is clutter and why is it undesirable?
 
-<img src="https://github.com/kokchun/assets/blob/main/data_visualization/bar_no_zero.png?raw=true" alt="bar chart and line chart" width="300">
+&nbsp; c) Why should you spend time on data storytelling when there is a lot of things that needs to be explored and cleaned in the data? 
 
-&nbsp; c) Whats wrong with this chart?
+&nbsp; d) Data storytelling is very subjective in terms of which story to tell. How could you or your team craft a compelling story to tell? 
 
-<img src="https://github.com/kokchun/assets/blob/main/data_visualization/line_categorical.png?raw=true" alt="bar chart and line chart" width="300">
-
-&nbsp; d) What is the difference between OOP approach and plt approach in drawing graphs.
-
-&nbsp; e) How do you draw an arrow in matplotlib? -->
 
 ## Glossary
 
