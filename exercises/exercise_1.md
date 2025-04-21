@@ -5,9 +5,30 @@ In this exercise, you get to use matplotlib and combine with data storytelling t
 > [!NOTE]
 > For each explanatory chart that you draw, make sure to use data storytelling principles to make your visualizations truly explanatory and not exploratory
 
-## 0. TODO: practical question
+## 0. Tell a story from immigration
 
-&nbsp; a)
+This visualization comes from [03_matplotlib_annotations](https://github.com/AIgineerAB/data_visualization_course/tree/main/03_matplotlib_annotations).
+
+<img src="https://github.com/kokchun/assets/blob/main/data_visualization/annotate_arrow?raw=true" alt="bar chart and line chart" width="300">
+
+Lets improve upon this visualization.
+
+&nbsp; a) Remove clutter from this visualization such as top spine and right spine. Also change the unit to thousands with a prefix K.
+
+&nbsp; b) Left align the xlabel, top align the ylabel and left align the title
+
+&nbsp; c) Use contrast to focus the attention to what you want the audience to see
+
+&nbsp; d) Choose a story to tell and change the labels and title accordingly
+
+&nbsp; e) You can choose several different stories to tell and depending on which one you choose, the visualization might look differently in terms of what parts are annotated, what parts are highlighted etc.
+
+
+## 1. Makeover 
+
+
+
+
 
 ## 1. Recreate graphs
 
