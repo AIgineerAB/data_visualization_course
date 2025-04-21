@@ -16,7 +16,13 @@ Data storytelling is an art to transform data and visualizations into story that
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization/storytelling_matplotlib.png?raw=true" alt="data storytelling line" width="600">
 </a>
 
-TODO: data storytelling bar chart
+**Data storytelling matplotlib bar chart**
+
+<a href="https://youtu.be/t6Fx8Q_sS2k" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization/bar_storytelling.png?raw=true" alt="data storytelling line" width="600">
+</a>
+
+
 
 
 ## Other videos 📹
