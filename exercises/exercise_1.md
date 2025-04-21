@@ -1,4 +1,4 @@
-# Exercise 0 - Data storytelling
+# Exercise 1 - Data storytelling
 
 In this exercise, you get to use matplotlib and combine with data storytelling to make visuals that are targeted towards telling a suitable story for your target audience.
 
@@ -57,11 +57,20 @@ creates a graph that looks like this
 
 Your task is to do a `data storytelling makeover` of this visual.
 
-## 2. Exploring happiness
+
+## 2. CO2 data storytelling
+
+Based on the dataset `co2_annmean_mlo.csv` create this visualization as closely as you can 
+
+<img src="https://github.com/kokchun/assets/blob/main/data_visualization/CO2_emissions_annual_mean.png?raw=true" alt="bar chart and line chart" width="300">
+
+
+
+## 3. Exploring and explaining happiness
 
 In the data happiness.xlsx from [here](https://data.world/makeovermonday/2025-week-4-world-happiness-report-2024) you can find happiness scores as well as a visualization of all the countries happiness along with different variables to explain the happiness to various levels. Do exploratory data analysis on this dataset, then pick out a few visualizations that you turn into explanatory data analysis using the principles of data storytelling. 
 
-## 3. Theory questions
+## 4. Theory questions
 
 &nbsp; a) Why is it good to use the proximity principle when designing visuals? 
 
