@@ -9,6 +9,10 @@ TODO: video
 </a> -->
 
 
+## Setup
+
+[Install this extension](https://marketplace.visualstudio.com/items/?itemName=yy0931.mplstyle) to get syntax highlighting for mplstyle files 
+
 
 ## Other videos 📹
 
