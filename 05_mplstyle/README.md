@@ -19,3 +19,4 @@ TODO: video
 
 
 ## Read more 👓
+- [All mplstyle configurations](https://github.com/matplotlib/matplotlib/blob/v3.10.1/lib/matplotlib/mpl-data/matplotlibrc)
