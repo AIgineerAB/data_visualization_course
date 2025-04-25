@@ -1,7 +1,7 @@
 # Plotly express - intro to interactive charts
 
-<a href="" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/FOLDER_NAME/.png?raw=true" alt="DESCRIPTION" width="600">
+<a href="https://youtu.be/xWu_ThphnSk" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/plotly_express/.png?raw=true" alt="plotly express" width="600">
 </a>
 
 ## Setup
@@ -10,14 +10,11 @@
 uv pip install plotly nbformat kaleido
 ```
 
-- line
-- bar
-- bubble chart - to show several variables - animated 
-- 
-
 ## Other videos 📹
 
 ## Read more 👓
 
 From plotly docs 
 - [Bar charts with plotly express](https://plotly.com/python/bar-charts/)
+- [Line charts in plotly](https://plotly.com/python/line-charts/)
+- [Bubble charts plotly](https://plotly.com/python/bubble-charts/)
