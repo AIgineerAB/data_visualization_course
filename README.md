@@ -25,7 +25,7 @@ Prerequisites for this course are:
 | -------- | --------------------------------------- | ------------ | ------------ |
 | 1        | data cleaning, matplotlib simple graphs | 00-03        | 0            |
 | 2        | storytelling, mplstyle                  | 04-05        | 1            |
-| 3        | plotly express, plotly graph objects    | 06           | 2            |
+| 3        | plotly express, plotly graph objects    | 06-07        | 2            |
 | 4        | dashboard, interactive maps             |              | 3            |
 | 5        |                                         |              | project      |
 | 6        |                                         |              | project      |
