@@ -1,7 +1,7 @@
 # Plotly express - intro to interactive charts
 
 <a href="https://youtu.be/xWu_ThphnSk" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/plotly_express/.png?raw=true" alt="plotly express" width="600">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization/plotly_express.png?raw=true" alt="plotly express" width="600">
 </a>
 
 ## Setup
