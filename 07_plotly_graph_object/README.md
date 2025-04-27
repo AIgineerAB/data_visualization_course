@@ -1,9 +1,7 @@
 # Plotly graph objects - low level approach for finer control
 
-TODO: video 
-
-<a href="" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/data_visualization/.png?raw=true" alt="plotly graph objects" width="600">
+<a href="https://youtu.be/bn6Mcq2GmWE" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization/graph_object.png?raw=true" alt="plotly graph objects" width="600">
 </a>
 
 
@@ -17,4 +15,7 @@ We will introduce a few other visualizations that might come in handy.
 ## Read more 👓
 
 From plotly docs 
-- [Bar charts with plotly express](https://plotly.com/python/bar-charts/)
+- [Radar charts](https://plotly.com/python/radar-chart/)
+- [Choropleth maps](https://plotly.com/python/choropleth-maps/)
+- [Choropleth mapbox api doc](https://plotly.com/python-api-reference/generated/plotly.graph_objects.Choroplethmapbox.html)
+- [Choropleth mapbox traces api doc](https://plotly.com/python/reference/choroplethmapbox/)
