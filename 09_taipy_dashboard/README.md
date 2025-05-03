@@ -1,8 +1,14 @@
-# Taipy fundamentals
+# Taipy dashboard
 
-<a href="https://youtu.be/-PxkR3kCOI0" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/data_visualization/taipy_intro.png?raw=true" alt="taipy" width="600">
+
+**part 1 - EDA on data and plot graph**
+
+<a href="https://youtu.be/Jqp9Gedl0Cc" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization/taipy_myh.png?raw=true" alt="taipy" width="600">
 </a>
+
+**part 2 - Taipy dashboard**
+
 
 ## Other videos 📹
 
