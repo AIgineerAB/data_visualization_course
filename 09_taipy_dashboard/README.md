@@ -7,7 +7,12 @@
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization/taipy_myh.png?raw=true" alt="taipy" width="600">
 </a>
 
-**part 2 - Taipy dashboard**
+**part 2 - building the Taipy dashboard**
+
+<a href="https://youtu.be/4Ex0DCqNHDg" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization/taipy_myh.png?raw=true" alt="taipy" width="600">
+</a>
+
 
 
 ## Other videos 📹
