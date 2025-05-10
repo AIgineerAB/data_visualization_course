@@ -1,5 +1,6 @@
 # Taipy dashboard packaging and refactoring
 
+TODO: refactoring
 
 **part 1 - EDA on data and plot graph**
 
