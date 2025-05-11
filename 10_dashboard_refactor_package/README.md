@@ -1,15 +1,10 @@
 # Taipy dashboard packaging and refactoring
 
-TODO: refactoring
+**part 3 - refactor dashboard**
 
-**part 1 - EDA on data and plot graph**
-
-TODO: VIDEO
-
-<!-- 
-<a href="https://youtu.be/Jqp9Gedl0Cc" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/data_visualization/taipy_myh.png?raw=true" alt="taipy" width="600">
-</a> -->
+<a href="https://youtu.be/ZkCupZRICUU" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization/taipy_myh.png?raw=true" alt="taipy refactor" width="600">
+</a>
 
 
 ## Setup 
