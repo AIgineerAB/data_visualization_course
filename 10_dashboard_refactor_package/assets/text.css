@@ -1,0 +1,16 @@
+.max-text-width {
+  max-width: 70ch;
+}
+
+h1,
+h2,
+h3,
+p,
+.taipy-text {
+  font-family: "Lato", "sans-serif";
+}
+
+.title-chart h2 {
+  font-size: var(--s1);
+  padding-left: var(--s4);
+}

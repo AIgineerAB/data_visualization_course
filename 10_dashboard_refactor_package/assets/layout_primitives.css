@@ -1,13 +1,11 @@
 .stack-small > * + * {
-    margin-top: var(--s-1);
-  }
-  
-  .stack > * + * {
-    margin-top: var(--s0);
-  }
-  
-  .stack-large > * + * {
-    margin-top: var(--s1);
-  }
-  
-  
+  margin-top: var(--s-1);
+}
+
+.stack > * + * {
+  margin-top: var(--s0);
+}
+
+.stack-large > * + * {
+  margin-top: var(--s1);
+}
