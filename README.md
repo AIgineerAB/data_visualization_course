@@ -8,8 +8,8 @@ For this you will be using the following tools:
 - pandas
 - matplotlib
 - plotly
-- streamlit
 - taipy
+- tableau
 
 Prerequisites for this course are:
 
@@ -18,16 +18,13 @@ Prerequisites for this course are:
 - pandas
 - simple matplotlib
 
-> [!NOTE]
-> plan not finished yet
-
 | **Week** | **Content**                                                        | **Lectures** | **Exercise** |
 | -------- | ------------------------------------------------------------------ | ------------ | ------------ |
 | 1        | data cleaning, matplotlib simple graphs                            | 00-03        | 0            |
 | 2        | storytelling, mplstyle                                             | 04-05        | 1            |
 | 3        | plotly express, plotly graph objects, radar chart, choropleth maps | 06-07        | 2            |
-| 4        | plotly template, dashboard,                                        |              | 3            |
-| 5        |                                                                    |              | project      |
-| 6        |                                                                    |              | project      |
-| 7        |                                                                    |              | project      |
-| 8        | tableau                                                            |              |              |
+| 4        | taipy dashboard,                                                   | 08-09        | 3            |
+| 5        | KPI, project start                                                 | 11           | project      |
+| 6        | packaging and modularizing taipy app                               | 10           | project      |
+| 7        | presentation, tableau                                              | 12           | project      |
+| 8        | tableau                                                            | 13           |              |
